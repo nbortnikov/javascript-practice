@@ -7,5 +7,9 @@
  * @returns {Array}
  */
 export const fill = (arraySize, value) => {
-  throw new Error(`put your solution here ${arraySize}, ${value}`);
+  throw new Error(  const arr = [];
+  for (let i = 0; i < num; i++) {
+    arr.push(value);
+  }
+  return arr;`);
 };
